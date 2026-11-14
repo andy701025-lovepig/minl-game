@@ -1,0 +1,6 @@
+{
+  "name": "Patisserie Stack｜千層蛋糕疊疊樂",
+  "description": "日系手工甜點屋 2D 蛋糕疊疊樂手機遊戲，掌握鐘擺擺盪節奏點擊落下蛋糕，完美對齊累積連擊並堆疊出最高甜點塔。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
